@@ -4,7 +4,11 @@ Hi, there. I'm Rahul Prakash 👋 .
 
 About me :
 - 🎇 I'm a knowledge seeker & keen to learn new 💻 _Technologies_
-- ✅ Currently sunking my teeth into web technologies, like `FastAPI` and `MongoDB`.
+- ✅ Language Experience : Golang, Python, TypeScript
+- ✅ Favourite Web Framework : FastApi, Go-Chi, Django, Next.js
+- ✅ Database Experience : PostgreSQL, MongoDB, DynamoDB, Clickhouse, CockroachDB
+- ✅ Other Web-Platforms Experience: Apache Kafka, Apache Spark, Apache Flink, Docker, Kubernetes
+- ✅ Currently sunking my teeth into web technologies, like `Rust` and `Clickhouse`.
 
 <br/>
 
@@ -19,16 +23,37 @@ About me :
 ---
 <br>
 
+![Golang](https://img.shields.io/badge/golang-007d9c?style=for-the-badge&logo=go&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
-![FastAPI](https://img.shields.io/badge/-FastAPI-%23003d05?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 <br>
 
+## Databases 
+---
+<br>
+
+![PostgreSql](https://img.shields.io/badge/PostgreSql-336791?style=for-the-badge&logo=PostgreSql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Clickhouse](https://img.shields.io/badge/Clickhouse-000000?style=for-the-badge&logo=Clickhouse&logoColor=yellow)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-336791?style=for-the-badge&logo=PostgreSql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ff4438?style=for-the-badge&logo=Redis&logoColor=white)
+
+<br>
+
+## Frameworks
+---
+<br>
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-%23003d05?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Go-Chi](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=Apache-Kafka&logoColor=white)
+
+<br>
 ## :hammer_and_wrench: Tools and Technologies
 ---
 
